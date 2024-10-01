@@ -45,9 +45,6 @@
     "url": "https://github.com/hoaphantn7604/react-native-virtualized-view/issues"
   },
   "homepage": "https://github.com/hoaphantn7604/react-native-virtualized-view#readme",
-  "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
-  },
   "devDependencies": {
     "@commitlint/config-conventional": "^11.0.0",
     "@react-native-community/eslint-config": "^2.0.0",
