@@ -1,6 +1,6 @@
 {
-  "name": "react-native-virtualized-view",
-  "version": "1.0.0",
+  "name": "@vocana/react-native-virtualized-view",
+  "version": "1.0.2",
   "description": "React Native Flatlist inside Scrollview.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
